@@ -1,0 +1,38 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.banner {
+  background: url("https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/691ba016116f02d13c7d69b8db1c5a298694aca33a5117fd92a14ec509ade9a4.jpg")
+    no-repeat center center;
+  background-size: cover;
+  padding-top: 25%;
+  padding-bottom: 25%;
+  color: #fff;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  margin: auto;
+  color: #fff;
+  background-color: black;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+.tim img {
+  width: 250px;
+  border: 5px solid #cccc;
+}
+
+.kontak {
+  background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
+    center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
